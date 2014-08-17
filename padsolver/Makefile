@@ -3,3 +3,6 @@ all:
 
 run:
 	cd .. && java padsolver.Board
+
+clean:
+	rm *.class
